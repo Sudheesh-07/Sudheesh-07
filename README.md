@@ -72,6 +72,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sudheesh-07/Sudheesh-07/output/snake.svg" alt="Snake animation" />
-
-###
