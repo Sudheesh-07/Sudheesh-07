@@ -47,6 +47,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem02NHkxZnE5d2Z4NHZnY2diNHJpYjVwb2h0MjlnMDM79bgEW1Fywynj17wCVsjjvRkhtUqPHnfWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"  />
+
+###
+
 <div align="left">
   <a href="gmail.com/sudheeshshetty48@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -61,12 +65,6 @@
 <br clear="both">
 
 <h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem02NHkxZnE5d2Z4NHZnY2diNHJpYjVwb2h0MjlnMDM79bgEW1Fywynj17wCVsjjvRkhtUqPHnfWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif"  />
 
 ###
 
