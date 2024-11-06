@@ -13,9 +13,9 @@ I'm Sudheesh, your friendly neighborhood coder, problem-solver, and coffee enthu
 ---
 
 ### 🛠️ Tech I Play With:
-- **Languages**: Python 🐍, JavaScript 🌐, C++ ⚙️, and more!
-- **Frameworks**: React.js, Node.js, and a pinch of Django when the mood hits!
-- **Tools**: Git for version control (of course!), VS Code, and the mighty Linux terminal.
+- **Languages**: Python 🐍, Dart and more!
+- **Frameworks**: Flutter, Node.js, and a pinch of Django when the mood hits!
+- **Tools**: Git for version control (of course!), VS Code, Android Studio and the mighty Linux terminal.
   
 ---
 
@@ -31,10 +31,9 @@ I'm Sudheesh, your friendly neighborhood coder, problem-solver, and coffee enthu
 
 ## Let’s Connect! 🌐
 - **LinkedIn**: [Sudheesh's LinkedIn](https://www.linkedin.com/in/sudheesh-shetty/)  
-- **Email**: [sudheeshshetty48@gmail.com]
+- **Email**: sudheeshshetty48@gmail.com
 
 ---
 
-> "Code like it's your superpower, and let your projects be your legacy!" 🚀
 
 Thanks for stopping by! Feel free to explore, star 🌟, fork 🍴, or just drop a message. Let’s make something awesome together!
