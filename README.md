@@ -10,6 +10,7 @@ I'm Sudheesh, your friendly neighborhood coder, problem-solver, and coffee enthu
 - 🚀 **Current Mission**: Mastering the art of clean, efficient code, and always on the lookout for exciting new technologies to explore.
 - 🛠️ **What I Love**: From full-stack development to exploring AI, I'm into all things tech that make the digital world smarter, smoother, and more fun.
 - 📚 **Forever Learning**: No matter the language or framework, I'm always up for a new challenge (hello, endless debugging!).
+- 🌟 **Always Hungry and Curious to explore new field**
 
 ---
 
