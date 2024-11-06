@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My name is Sudheesh and I'm a Second year Student, at Universal College of Engineering</h6>
+<h6 align="left">My name is Sudheesh and I'm a Third Year Student, at Universal College of Engineering</h6>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a student fidgeting around android development <br>- 📚 I'm currently learning Flutter and full stack application development<br>- ⚡ In my free time I learn play Volleyball 🏐 or Football ⚽<br>- 👯 I’m looking to collaborate on https://github.com/KRTirtho/spotube</p>
+<p align="left">- 🔭 I’m a student fidgeting around android development <br>- 📚 I'm currently learning Flutter and full stack application development<br>- ⚡ In my free time I learn play Volleyball 🏐 or Football ⚽</p>
 
 ###
 
